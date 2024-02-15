@@ -27,3 +27,9 @@ You'll find the following code snippet:
 </body>
 </html>
 ```
+
+### How to run the code?
+
+1. Install bun from the official website of [Bun](https://bun.sh).
+  - For Windows, use WSL aka [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
+2. Run the following command in the terminal `bunx vite` after creating a new directory and index.html file inside of it.
