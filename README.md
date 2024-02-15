@@ -1,10 +1,10 @@
-### Getting started with HTML
+## Getting started with HTML
 
 Article: [Learn Web Development](https://nrjdalal.com/blog/web-development)
 
-### Instead of learning traditional CSS, get started with Tailwind CSS.
+## Instead of learning traditional CSS, get started with Tailwind CSS.
 
-## How to use Tailwind CSS, as a beginner?
+### How to use Tailwind CSS, as a beginner?
 
 1. Go to the official website of [Tailwind CSS](https://tailwindcss.com).
 2. Click on the "Get Started" button.
